@@ -1,0 +1,123 @@
+{
+  "docs": {
+    "Governance": [
+      "governance",
+      "governance/core-principles",
+      {
+        "type": "subcategory",
+        "label": "Risk Framework",
+        "ids": [
+          "governance/governance-risk-framework/risk-framework-part-one",
+          "governance/governance-risk-framework/risk-framework-part-two",
+          "governance/governance-risk-framework/risk-framework-part-three"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Governance Risk Meetings",
+        "ids": [
+          "governance/governance-and-risk-meetings/governance-risk-meetings",
+          "governance/governance-and-risk-meetings/summaries/governance-risk-summaries",
+          "governance/governance-and-risk-meetings/transcripts/governance-risk-transcripts"
+        ]
+      }
+    ],
+    "Risk": [
+      "risk",
+      "risk/collateral-onboarding-guide",
+      "risk/collateral-onboarding-guide-es"
+    ],
+    "FAQs": [
+      "faqs",
+      "faqs/cdp",
+      "faqs/dai",
+      "faqs/emergency-shutdown",
+      "faqs/glossary",
+      "faqs/governance",
+      "faqs/keeper",
+      "faqs/liquidation",
+      "faqs/makerdao",
+      "faqs/oracles",
+      "faqs/risk-management",
+      "faqs/stability-fee"
+    ],
+    "Meetups": [
+      "meetups",
+      "meetups/getting-started-guide",
+      "meetups/event-formats-guide",
+      "meetups/promotion-guide",
+      "meetups/budget-guide",
+      "meetups/requesting-funds",
+      "meetups/faq",
+      "meetups/Español"
+    ],
+    "Hackathons": [
+      "hackathons",
+      "hackathons/dev-quick-start",
+      "hackathons/organizer-quick-start",
+      "hackathons/funding-requirements",
+      "hackathons/faq"
+    ],
+    "Grants": [
+      "grants",
+      "grants/grantee-playbook"
+    ],
+    "Contributing": [
+      "contributing",
+      "contributing/contributing-faq",
+      "contributing/style-guide",
+      {
+          "type": "subcategory",
+          "label": "Translations",
+          "ids": [
+            "translations",
+            "translations/translators-quick-start",
+            "translations/editors-quick-start",
+            "translations/faq"
+          ]
+      }
+    ]
+  },
+  "governance-risk-summaries": {
+    "Governance Summaries": [
+      "governance/governance-and-risk-meetings/summaries/episode-46",
+      "governance/governance-and-risk-meetings/summaries/episode-45",
+      "governance/governance-and-risk-meetings/summaries/episode-44",
+      "governance/governance-and-risk-meetings/summaries/episode-43",
+      "governance/governance-and-risk-meetings/summaries/episode-42",
+      "governance/governance-and-risk-meetings/summaries/episode-41",
+      "governance/governance-and-risk-meetings/summaries/episode-40",
+      "governance/governance-and-risk-meetings/summaries/episode-39",
+      "governance/governance-and-risk-meetings/summaries/episode-38",
+      "governance/governance-and-risk-meetings/summaries/episode-37",
+      "governance/governance-and-risk-meetings/summaries/episode-36"
+    ],
+    "Governance Transcripts": [
+      "governance/governance-and-risk-meetings/transcripts/episode-46",
+      "governance/governance-and-risk-meetings/transcripts/episode-45",
+      "governance/governance-and-risk-meetings/transcripts/episode-44",
+      "governance/governance-and-risk-meetings/transcripts/episode-43",
+      "governance/governance-and-risk-meetings/transcripts/episode-42",
+      "governance/governance-and-risk-meetings/transcripts/episode-41",
+      "governance/governance-and-risk-meetings/transcripts/episode-40",
+      "governance/governance-and-risk-meetings/transcripts/episode-39",
+      "governance/governance-and-risk-meetings/transcripts/episode-38",
+      "governance/governance-and-risk-meetings/transcripts/episode-37",
+      "governance/governance-and-risk-meetings/transcripts/episode-36",
+      "governance/governance-and-risk-meetings/transcripts/episode-35",
+      "governance/governance-and-risk-meetings/transcripts/episode-34",
+      "governance/governance-and-risk-meetings/transcripts/episode-33",
+      "governance/governance-and-risk-meetings/transcripts/episode-32",
+      "governance/governance-and-risk-meetings/transcripts/episode-31",
+      "governance/governance-and-risk-meetings/transcripts/episode-30",
+      "governance/governance-and-risk-meetings/transcripts/episode-29",
+      "governance/governance-and-risk-meetings/transcripts/episode-28",
+      "governance/governance-and-risk-meetings/transcripts/episode-27",
+      "governance/governance-and-risk-meetings/transcripts/episode-26",
+      "governance/governance-and-risk-meetings/transcripts/episode-26",
+      "governance/governance-and-risk-meetings/transcripts/episode-25",
+      "governance/governance-and-risk-meetings/transcripts/episode-24",
+      "governance/governance-and-risk-meetings/transcripts/episode-23"
+    ] 
+  }
+}
