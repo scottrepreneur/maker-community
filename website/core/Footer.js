@@ -37,14 +37,14 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Learn</h5>
+            <a href="https://blog.makerdao.com/">
+              Blog
+            </a>
             <a href="https://makerdao.com/en/whitepaper">
               Whitepaper
             </a>
             <a href="https://awesome.makerdao.com">
               Awesome MakerDAO
-            </a>
-            <a href="https://blog.makerdao.com/">
-              Blog
             </a>
             <a href="https://makerdao.com/documentation/">
               Developer Documentation

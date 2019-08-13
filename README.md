@@ -1,22 +1,22 @@
 
-## Maker Community Development Portal Proposal [WIP]
+# Maker Community Development Portal Proposal [WIP]
 
-1up Haus
-Scott Herren (@scottrepreneur)
-August 10, 2019
+1up Haus  
+Scott Herren (@scottrepreneur)  
+August 13, 2019  
 
-### Overview
+## Overview
 
 1up will iterate on the commmunity development portal to leverage Docusaurus, a Facebook documentation framework, to allow additional flexibility in the portal over Gitbook.
 
-[Requesting Issue](https://github.com/makerdao/community/issues/225)
+[Requesting Issue](https://github.com/makerdao/community/issues/225)  
 [Forum Post](https://forum.makerdao.com/t/wanted-a-docusaurus-setup-to-replace-the-existing-portal/149)
 
 This repository will serve as the development origin for the project.
 
-### Solution Requirements
+## Solution Requirements
 
-#### MVP
+### MVP
 exact duplicate of the existing portal, just with docusaurus as a framework instead of gitbooks
 
 1. Update landing/home page, given new flexibility
@@ -27,16 +27,14 @@ exact duplicate of the existing portal, just with docusaurus as a framework inst
 1. note: Subcategories do not collapse in sidebar
 1. 
 
-#### v2.0
+### v2.0
+
 adding pages with arbitrary code. we have a transparency dashboard coming for the grants program that i'd like inside the portal as well
 
-Requirements
-
 1. 
 1. 
 
-
-#### Milestones
+### Milestones
 
 v1.0
 - Skeleton [10 hrs]
@@ -48,16 +46,16 @@ v1.5
 - Working revisions [2-5 hrs]
 
 v2.0
-- 
+- custom code 
 
-#### Success
-The major hurdles of establishing the new portal are tackled at this point, so this project is tackling some smaller problems to delivery. Implementing the landing page design, search, and setting up translations team are the main remaining hurdles in the MVP.
+### Success
+The major hurdles of establishing the new portal are tackled at this point, so this project is tackling some smaller details to delivery. Implementing the landing page design, search, and setting up translations team are the main remaining hurdles in the MVP.
 
-#### MVP Budget
+### MVP Budget
 
 ~17hrs of development time
 
-#### Deployment
+### Deployment
 
 It is assumed the Foundation will take on deployment of the portal or assume charges for infrastructure.
 
@@ -65,7 +63,7 @@ Currently deployed for testing at https://mkr-comm.scottrepreneur.now.sh
 
 ---
 
-#### Misc
+### Misc
 
 Need to figure out
 - How are translations handled
@@ -94,15 +92,16 @@ Unsolicited suggestion
 
 ---
 
-Pending successful completion, will tackle
+Pending successful completion, could tackle
 
-Styling the Forum (CD Portal included in this proposal)
-https://forum.makerdao.com/t/wanted-styling-for-this-forum-and-the-community-development-portal/150
+[Styling the Forum (CD Portal included in this proposal)](
+https://forum.makerdao.com/t/wanted-styling-for-this-forum-and-the-community-development-portal/150)  
 and
-Governance Dashboard
-https://forum.makerdao.com/t/wanted-a-governance-dashboard/87
+[Governance Dashboard](
+https://forum.makerdao.com/t/wanted-a-governance-dashboard/87)
 
---
+---
+
 
 
 
