@@ -61,7 +61,7 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>Community</h5>
-            <a href="https://chat.makerdao.com/">Project Chat</a>
+            <a href="https://chat.makerdao.com/">Rocket Chat</a>
             <a href="https://t.me/makerdaoOfficial">
               Telegram
             </a>
