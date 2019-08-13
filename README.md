@@ -83,12 +83,7 @@ Questions
  - folders all retained in provided structure, but moved the anchor/landing page for each section to the docs/ folder renamed to the match corresponding folder
 1. Footer?
 1. What is the arbitrary code intending to do to the page?
-1. How do you envision the 
-
-Unsolicited suggestion
-
-1. Can we use community.makerdao.com?
-1. Community Development is a bit long. Can we frame it around growing the community, in general. Community Development is the action to create and grow the collective communities. We're the MakerDAO Communinty '(development) team'.
+1. How do you envision the transparency dashboard being incorporated?
 
 ---
 
