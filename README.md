@@ -74,17 +74,27 @@ Need source file(s):
 - favicon.ico
 - images to use on landing page
 
-Questions
+#### Questions
 
-1. Submenus don't collase so we have to handle the meeting sumarries and transcripts a bit in a workaround. https://mkr-comm.scottrepreneur.now.sh/docs/governance/governance-and-risk-meetings/summaries/episode-46
-1. There's a v2 in planning stages. I'd think we've got at least 6 - 12mos for any sort of shipping there.
 1. Maintained most of docs structure, but need to discuss these poll archives and the transparency portal docs
- - links mostly changed (episode-46.md --> episode-46). 
- - folders all retained in provided structure, but moved the anchor/landing page for each section to the docs/ folder renamed to the match corresponding folder
+   - links mostly changed (episode-46.md --> episode-46). 
+   - folders all retained in provided structure, but moved the anchor/landing page for each section to the docs/ folder renamed to the match corresponding folder
+   - _sounds like this is not maintained enough. potentially needs some sort of pull aspect to gather approapriate docs_
+1. links transform --> + /docs/ +
+   - https://community-development.makerdao.com/governance/core-principles -->https://mkr-comm.scottrepreneur.now.sh/docs/governance/core-principles
+   - _not ideal_
+1. Submenus don't collase so we have to handle the meeting sumarries and transcripts a bit in a workaround. https://mkr-comm.scottrepreneur.now.sh/docs/governance/governance-and-risk-meetings/summaries/episode-46
+   - _will it be sufficent to link from landing page_
+1. There's a v2 of docusaurus in planning stages. I'd think we've got at least 6 - 12mos for any sort of shipping there. _Chat with @burrrata as it seems they are using it for 1hive._
+1. *Translations* are integrated with Crowdin, which has a free for open source projects option. It's looking to handle full translation through strings translation. I'll have to dig a good amount to handle them in (another) custom way https://crowdin.com/page/open-source-project-setup-request
+   - _not sold on value/need here_
 1. Footer?
+   - _probably fine, touchbase with David about it_
 1. What is the arbitrary code intending to do to the page?
+   - _pages can be completely custom react, so that's fine. docs and their theme/layout are a bit more restrictive_
 1. How do you envision the transparency dashboard being incorporated?
 1. These anchor links, are acting weird in the current version. Might have to offset the scroll or link. https://mkr-comm.scottrepreneur.now.sh/docs/governance/governance-and-risk-meetings/transcripts/episode-46#000058
+   - _I attempted one workaround here without luck. might be able to put a small bounty out for it and/or reach out to higher React powers_
 
 ---
 
