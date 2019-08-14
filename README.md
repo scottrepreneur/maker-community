@@ -84,6 +84,7 @@ Questions
 1. Footer?
 1. What is the arbitrary code intending to do to the page?
 1. How do you envision the transparency dashboard being incorporated?
+1. These anchor links, are acting weird in the current version. Might have to offset the scroll or link. https://mkr-comm.scottrepreneur.now.sh/docs/governance/governance-and-risk-meetings/transcripts/episode-46#000058
 
 ---
 

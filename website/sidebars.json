@@ -76,6 +76,9 @@
             "translations/faq"
           ]
       }
+    ],
+    "Summary": [
+      "summary"
     ]
   },
   "governance-risk-summaries": {

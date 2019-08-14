@@ -13,6 +13,8 @@ const MarkdownBlock = CompLibrary.MarkdownBlock; /* Used to read markdown */
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
+const translate = require('../../server/translate.js').translate;
+
 class HomeSplash extends React.Component {
   render() {
     const {siteConfig, language = ''} = this.props;
@@ -67,8 +69,8 @@ class HomeSplash extends React.Component {
             ecosystem by incentivizing our most motivated members. We do this through a series of initiatives 
             that encourage people to participate in, and contribute to, the success of the Dai Stablecoin platform.</p>
             <Button href={docUrl('faqs.html')}>FAQs</Button>
-            <Button href="http://awesome.makerdao.com">Awesome-MakerDAO</Button>
             <Button href={docUrl('governance.html')}>Governance</Button>
+            <Button href={docUrl('risk.html')}>Risk</Button>
           </PromoSection>
         </div>
       </SplashContainer>
