@@ -35,7 +35,7 @@ We've included several guides and also some additional resources to help you org
 - [Promotion Guide](./promotion-guide.md)
 - [Event Formats Guide](./event-formats-guide.md)
 - [Design files](https://github.com/makerdao/Overview-of-MakerDAO-design#style-guide)
-- [Example Presentations](https://github.com/makerdao/awesome-makerdao#videos)
+- [Example Presentations](https://awesome.makerdao.com#videos)
 - [Usable Slides and Presentation Decks](./assets/slides)
 
 ## Hosting the meetup

@@ -21,8 +21,9 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Community Development at Maker', // Title for your website.
-  tagline: 'Watch out for loose seals',
+  title: 'Community', // Title for your website.
+  full_title: 'Maker Community Development',
+  tagline: 'Fostering growth in the Dai ecosystem',
   url: 'https://community-development.makerdao.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,14 +39,13 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
+    { doc: 'governance', label: 'Governance' },
+    { doc: 'risk', label: 'Risk' },
     { doc: 'faqs', label: 'FAQs' },
-    { doc: 'governance', label: 'Governance'},
-    { doc: 'risk', label: 'Risk'},
-    { doc: 'meetups', label: 'Meetups'},
-    { doc: 'hackathons', label: 'Hackathons' },
-    { doc: 'grants', label: 'Grants'},
     { doc: 'contributing', label: 'Contribute!' },
+    { languages: true },
   ],
+  translationRecruitingLink: 'https://makerdao.crowdin.com/maker-community-development',
 
   // If you have users set above, you add it here:
   users,
@@ -75,6 +75,12 @@ const siteConfig = {
   },
   */
 
+  algolia: {
+    apiKey: '47ecd3b21be71c5822571b9f59e52544',
+    indexName: 'docusaurus-2',
+    algoliaOptions: {} // Optional, if provided by Algolia
+  },
+
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} MakerDAO Community Development Initiative`,
 
@@ -90,6 +96,11 @@ const siteConfig = {
   onPageNav: 'separate',
   // No .html extensions for paths.
   cleanUrl: true,
+  // Remove 'docs' from documentation URL
+  docsUrl: '',
+  // Adds Edit button to docs
+  editUrl: 'https://github.com/makerdao/community/tree/master/',
+  
 
   // Open Graph and Twitter card images.
   ogImage: 'img/undraw_online.svg',

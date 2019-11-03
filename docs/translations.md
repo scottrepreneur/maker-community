@@ -30,7 +30,7 @@ This is a community-led initiative that uses Dai bounties to incentivize users t
 
 ## How do I get involved?
 
-Check out our quick-start guides for [Translators](translations/translators-quick-start) and [Editors](translations/editor-quick-start).
+Check out our quick-start guides for [Translators](./translations/translator-quick-start-guide.md) and [Editors](./translations/editor-quick-start-guide.md).
 
 ## Status
 

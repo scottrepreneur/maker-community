@@ -1,11 +1,11 @@
 ---
 id: cdp
-title: Collateral Debt Positions
+title: Collateralized Debt Positions
 ---
 
 ## What are Collateralized Debt Positions?
 
-The MakerDAO Collateralized Debt Position \(CDP\) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the drawn Dai is returned.
+The MakerDAO Collateralized Debt Position (CDP) is a type of loan administered by a smart contract system that runs on the Ethereum blockchain. The CDP is a core component of the Dai Stablecoin System, which facilitates the creation of Dai against escrowed collateral which is held until the drawn Dai is returned.
 
 CDP usage collectively alters the total supply of Dai. Users create Dai by drawing it against their collateral and destroy Dai when repaying their debt. This process happens on-chain, which enables full auditability of circulating Dai and the collateral backing it.
 
@@ -117,4 +117,4 @@ Yes, so long as there is collateral inside of the CDP you can draw Dai. Liquidat
 
 ## How can I verify the solvency of the CDP ecosystem?
 
-The system runs on the Ethereum blockchain, so all contracts and transactions are public. Users can interact with a fully transparent financial system without having to trust a counterparty institution. Anyone can verify the solvency of the system for themselves by visiting one of the many [MakerDAO statistics dashboards](https://github.com/makerdao/awesome-makerdao/blob/master/README.md#watch-your-dai), or by querying the blockchain directly.
+The system runs on the Ethereum blockchain, so all contracts and transactions are public. Users can interact with a fully transparent financial system without having to trust a counterparty institution. Anyone can verify the solvency of the system for themselves by visiting one of the many [MakerDAO statistics dashboards](https://awesome.makerdao.com#watch-your-dai), or by querying the blockchain directly.

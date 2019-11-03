@@ -1,0 +1,21 @@
+"project_identifier" : "2"
+"api_key" : "418358aefd213cb71a583e2925728901564bb0768ed21ee0ad42e3988d0a0240a69975b263f0b001"
+# "base_path" : "your-base-path"
+"base_url" : "https://makerdao.crowdin.com"
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source" : "/docs/**/*.md",
+    "translation" : "/website/translated_docs/%two_letters_code%/%original_file_name%",
+    "ignore" : [
+        "/docs/governance/governance-and-risk-meetings/summaries/*",
+        "/docs/governance/governance-and-risk-meetings/transcripts/*"
+    ]
+  },
+  {
+    "source" : "/website/i18n/en.json",
+    "translation" : "/website/i18n/%locale%.json"
+  }
+]

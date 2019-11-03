@@ -7,9 +7,9 @@
         "type": "subcategory",
         "label": "Risk Framework",
         "ids": [
-          "governance/governance-risk-framework/risk-framework-part-one",
-          "governance/governance-risk-framework/risk-framework-part-two",
-          "governance/governance-risk-framework/risk-framework-part-three"
+          "governance/governance-risk-framework/risk-framework-one",
+          "governance/governance-risk-framework/risk-framework-two",
+          "governance/governance-risk-framework/risk-framework-three"
         ]
       },
       {
@@ -77,12 +77,22 @@
           ]
       }
     ],
-    "Summary": [
-      "summary"
+    "Translations": [
+      "translations",
+      "translations/translator-quick-start-guide",
+      "translations/editor-quick-start-guide",
+      "translations/faq"
     ]
   },
   "governance-risk-summaries": {
     "Governance Summaries": [
+      "governance/governance-and-risk-meetings/summaries/episode-53",
+      "governance/governance-and-risk-meetings/summaries/episode-52",
+      "governance/governance-and-risk-meetings/summaries/episode-51",
+      "governance/governance-and-risk-meetings/summaries/episode-50",
+      "governance/governance-and-risk-meetings/summaries/episode-49",
+      "governance/governance-and-risk-meetings/summaries/episode-48",
+      "governance/governance-and-risk-meetings/summaries/episode-47",
       "governance/governance-and-risk-meetings/summaries/episode-46",
       "governance/governance-and-risk-meetings/summaries/episode-45",
       "governance/governance-and-risk-meetings/summaries/episode-44",
@@ -96,6 +106,13 @@
       "governance/governance-and-risk-meetings/summaries/episode-36"
     ],
     "Governance Transcripts": [
+      "governance/governance-and-risk-meetings/transcripts/episode-53",
+      "governance/governance-and-risk-meetings/transcripts/episode-52",
+      "governance/governance-and-risk-meetings/transcripts/episode-51",
+      "governance/governance-and-risk-meetings/transcripts/episode-50",
+      "governance/governance-and-risk-meetings/transcripts/episode-49",
+      "governance/governance-and-risk-meetings/transcripts/episode-48",
+      "governance/governance-and-risk-meetings/transcripts/episode-47",
       "governance/governance-and-risk-meetings/transcripts/episode-46",
       "governance/governance-and-risk-meetings/transcripts/episode-45",
       "governance/governance-and-risk-meetings/transcripts/episode-44",

@@ -53,7 +53,7 @@ Dai is not a hard-pegged currency so it does not perfectly track the value of an
 
 It achieves this stability through a combination of external market forces, complementary internal economic incentives, and policy tools. Many different market actors behaving in their own self-interest, yet working in concert, contribute to its stability. These actors include MKR holders, arbitrageurs, CDP owners, and normal market makers.
 
-If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee \(cost of borrowing\) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
+If Dai demand consistently exceeds Dai supply, or vice-versa, it is a signal that MKR holders need to adjust the [Stability Fee](stability-fee.md). An increase in the stability fee results in a higher cost of borrowing for CDP users, thus dampening the Dai supply by making CDP usage less attractive. Conversely, a decrease in the Stability Fee (cost of borrowing) will incentivize the additional creation of Dai, acting as a policy tool to tweak supply growth.
 
 Arbitrageurs also contribute to the short term stability of the peg by taking advantage of opportunities across various Dai markets.
 
@@ -67,7 +67,7 @@ You can only create DAI by generating it against the collateral you lock in your
 
 ## Where can I buy Dai?
 
-The DAI token is available on a range of centralized and decentralized [exchanges](https://coinmarketcap.com/currencies/dai/#markets). The [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao#trade-your-dai) repository also maintains a list of Dai markets.
+The DAI token is available on a range of centralized and decentralized [exchanges](https://coinmarketcap.com/currencies/dai/#markets). The [Awesome MakerDAO](https://awesome.makerdao.com#trade-your-dai) repository also maintains a list of Dai markets.
 
 ## Where can I see the amount of collateral that is backing DAI?
 
@@ -75,4 +75,4 @@ Because the system runs as an autonomous smart contract and all transactions are
 
 ## What organizations are using DAI?
 
-A current list can be found in the [Partnerships](https://github.com/makerdao/awesome-makerdao#partnerships) section of the [Awesome-MakerDao](https://github.com/makerdao/awesome-makerdao#) repository.
+A current list can be found in the [Partnerships](https://awesome.makerdao.com#partnerships) section of the [Awesome-MakerDao](https://awesome.makerdao.com) repository.

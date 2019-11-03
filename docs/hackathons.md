@@ -26,7 +26,7 @@ The Maker Foundation is involved in hackathons in many ways:
 - Sponsor prizes
 - Come up with hackathon themes and tracks
 - Participate as judges and mentors
-- Enroll hackathon participants and winners into our [Grants program](grants)
+- Enroll hackathon participants and winners into our [Grants program](grants.md)
 
 ## Is this for me?
 
@@ -44,8 +44,8 @@ The Maker Foundation is involved in hackathons in many ways:
 
 ## How do I get involved?
 
-If you're participating in a hackathon, check out our [Developer Quick Start Guide](hackathons/dev-quick-start) for all that you need to get started.
+If you're participating in a hackathon, check out our [Developer Quick Start Guide](hackathons/developer-quick-start-guide.md) for all that you need to get started.
 
-If you're organizing a hackathon and would like us to help, participate, or sponsor your event please visit our [Organizer Quick-Start Guide](hackathons/organizer-quick-start).
+If you're organizing a hackathon and would like us to help, participate, or sponsor your event please visit our [Organizer Quick-Start Guide](hackathons/organizer-quick-start-guide.md).
 
 For other questions about hackathons please message us in our [chat](https://chat.makerdao.com/channel/community-development) or email us at hackathons@makerdao.com.

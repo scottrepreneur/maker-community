@@ -1,6 +1,6 @@
 ---
 id: episode-43
-title:  Episode 43 - July 11, 2019
+title: Episode 43 - July 11, 2019
 ---
 
 ## Agenda

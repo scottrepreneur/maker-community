@@ -30,6 +30,7 @@ title: Style Guide
 - References to Purple Paper names (flip, flap, flop, etc.) in the documentation.
 - Footnotes.
 - Curly quotes `“`. Use the plaintext version: `"`.
+- Escaping parentheses, `\(SOMETHING\)`. Use normal parentheses, `(SOMETHING)`.
 
 ### Numbers
 
@@ -89,7 +90,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 - Do not use the same heading twice. It breaks auto-generated navigation.
 - Do not leave trailing spaces.
 - Ensure there is a single hard return at the end of the file.
-- **Ensure the [summary.md](summary) file is updated for every document that should show up in GitBook.**
+- **Ensure the [SUMMARY.md](../SUMMARY.md) file is updated for every document that should show up in GitBook.**
 
 ### File Names
 
@@ -125,7 +126,7 @@ When bulleted and numbered lists contain complete sentences, capitalize the firs
 ## FAQ Style Guide
 
 - Always use relative links.
-- Look for terms to add to the [Glossary](../faqs/glossary).
+- Look for terms to add to the [Glossary](../faqs/glossary.md).
 - Important numbers should be bold: "A CDP exists with **1000** DAI Stability Debt."
 - List items that include definitions should look like this:
   - **Team:** Core team and advisors are critical to MakerDAO's success.
