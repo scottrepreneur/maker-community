@@ -3,6 +3,8 @@
     "Governance": [
       "governance",
       "governance/core-principles",
+      "governance/executive-votes",
+      "governance/governance-polls",
       {
         "type": "subcategory",
         "label": "Risk Framework",
@@ -66,6 +68,7 @@
       "contributing",
       "contributing/contributing-faq",
       "contributing/style-guide",
+      "contributing/visual-style-guide",
       {
           "type": "subcategory",
           "label": "Translations",
@@ -86,6 +89,13 @@
   },
   "governance-risk-summaries": {
     "Governance Summaries": [
+      "governance/governance-and-risk-meetings/summaries/episode-60",
+      "governance/governance-and-risk-meetings/summaries/episode-59",
+      "governance/governance-and-risk-meetings/summaries/episode-58",
+      "governance/governance-and-risk-meetings/summaries/episode-57",
+      "governance/governance-and-risk-meetings/summaries/episode-56",
+      "governance/governance-and-risk-meetings/summaries/episode-55",
+      "governance/governance-and-risk-meetings/summaries/episode-54",
       "governance/governance-and-risk-meetings/summaries/episode-53",
       "governance/governance-and-risk-meetings/summaries/episode-52",
       "governance/governance-and-risk-meetings/summaries/episode-51",
@@ -139,5 +149,86 @@
       "governance/governance-and-risk-meetings/transcripts/episode-24",
       "governance/governance-and-risk-meetings/transcripts/episode-23"
     ] 
+  },
+  "polls_and_votes": {
+    "Executive Votes": [
+      "governance/votes/executive-102519",
+      "governance/votes/executive-101819",
+      "governance/votes/executive-101119",
+      "governance/votes/executive-100419",
+      "governance/votes/executive-092719",
+      "governance/votes/executive-091319",
+      "governance/votes/executive-090619",
+      "governance/votes/executive-083019",
+      "governance/votes/executive-080919",
+      "governance/votes/executive-072619",
+      "governance/votes/executive-071919",
+      "governance/votes/executive-071219",
+      "governance/votes/executive-070519",
+      "governance/votes/executive-062119",
+      "governance/votes/executive-053119",
+      "governance/votes/executive-052419",
+      "governance/votes/executive-051719",
+      "governance/votes/executive-050319",
+      "governance/votes/executive-042619",
+      "governance/votes/executive-041919",
+      "governance/votes/executive-041219",
+      "governance/votes/executive-032219",
+      "governance/votes/executive-030819",
+      "governance/votes/executive-022219",
+      "governance/votes/executive-021119",
+      "governance/votes/executive-121518",
+      "governance/votes/executive-072718"
+    ],
+    "Governance Polls": [
+      {
+        "type": "subcategory",
+        "label": "Stability Fee Adjustments",
+        "ids": [
+          "governance/polls/stability-fee-111119",
+          "governance/polls/stability-fee-110419",
+          "governance/polls/stability-fee-102819",
+          "governance/polls/stability-fee-102119",
+          "governance/polls/stability-fee-101419",
+          "governance/polls/stability-fee-100719",
+          "governance/polls/stability-fee-103019",
+          "governance/polls/stability-fee-092319",
+          "governance/polls/stability-fee-091619",
+          "governance/polls/stability-fee-090919",
+          "governance/polls/stability-fee-090219",
+          "governance/polls/stability-fee-081919",
+          "governance/polls/stability-fee-081219",
+          "governance/polls/stability-fee-080519"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Other",
+        "ids": [
+          "governance/polls/debt-ceiling-prior-mcd",
+          "governance/polls/defi-public-feed",
+          "governance/polls/exponential-rate-stepping",
+          "governance/polls/mcd-launch-params-amend",
+          "governance/polls/governance-facilitator-mandate",
+          "governance/polls/interim-oracle-team-mandate",
+          "governance/polls/oracle-incentive-restructuring",
+          "governance/polls/migration-risk-construct",
+          "governance/polls/oracle-migration-proposal"       
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Collateral Priority",
+        "ids": [
+          "governance/polls/cap-0x",
+          "governance/polls/cap-rep",
+          "governance/polls/cap-bat",
+          "governance/polls/cap-dgd",
+          "governance/polls/cap-eth",
+          "governance/polls/cap-gnt",
+          "governance/polls/cap-eth"
+        ]
+      }
+    ]
   }
 }

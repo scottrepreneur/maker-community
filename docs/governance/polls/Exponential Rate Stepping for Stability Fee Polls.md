@@ -1,5 +1,7 @@
 ---
+id: exponential-rate-stepping
 title: Exponential Rate Stepping for Stability Fee Polls
+sidebar_label: SF - Exponential Rate Stepping
 ---
 
 The Maker Foundation Interim Governance Facilitator has placed this Governance Poll into the [voting system](https://vote.makerdao.com/polling).

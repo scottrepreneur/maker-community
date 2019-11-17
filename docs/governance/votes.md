@@ -1,0 +1,32 @@
+---
+id: executive-votes
+title: Executive Votes
+---
+
+- [Executive vote - October 25, 2019](votes/executive-102519)
+- [Executive vote - October 18, 2019](votes/executive-101819)
+- [Executive vote - October 11, 2019](votes/executive-101119)
+- [Executive vote - October 4, 2019](votes/executive-100419)
+- [Executive vote - September 21, 2019](votes/executive-092719)
+- [Executive vote - September 13, 2019](votes/executive-091319)
+- [Executive vote - September 6, 2019](votes/executive-090619)
+- [Executive vote - August 30, 2019](votes/executive-083019)
+- [Executive vote - August 09, 2019](votes/executive-080919)
+- [Executive vote - July 26, 2019](votes/executive-072619)
+- [Executive vote - July 19, 2019](votes/executive-071919)
+- [Executive vote - July 12, 2019](votes/executive-071219)
+- [Executive vote - July 05, 2019](votes/executive-070519)
+- [Executive vote - June 21, 2019](votes/executive-062119)
+- [Executive vote - May 31, 2019](votes/executive-053119)
+- [Executive vote - May 24, 2019](votes/executive-052419)
+- [Executive vote - May 17, 2019](votes/executive-051719)
+- [Executive vote - May 3, 2019](votes/executive-050319)
+- [Executive vote - April 26, 2019](votes/executive-042619)
+- [Executive vote - April 19, 2019](votes/executive-041919)
+- [Executive vote - April 12, 2019](votes/executive-041219)
+- [Executive vote - March 22, 2019](votes/executive-032219)
+- [Executive vote - March 8, 2019](votes/executive-030819)
+- [Executive vote - February 22, 2019](votes/executive-022219)
+- [Executive vote - February 11, 2019](votes/executive-021119)
+- [Executive vote - December 15, 2018](votes/executive-121518)
+- [Executive vote - July 27, 2018](votes/executive-072718)

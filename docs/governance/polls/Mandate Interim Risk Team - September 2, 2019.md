@@ -1,8 +1,10 @@
 ---
 id: risk-team-mandate
 title: Ratify the Interim Risk Team Mandate
+sidebar_label: Interim Risk Team Mandate
 ---
 
+# Introduction
 
 Risk teams are ecosystem participants responsible for managing the various risks in the Dai Credit System. They are tasked with managing the collateral portfolio and recommending appropriate monetary policy while adhering to the principles of scientific governance. Due to the decentralized nature of MakerDAO, there are a number of considerations the community should discuss surrounding the onboarding and management of risk teams.
 

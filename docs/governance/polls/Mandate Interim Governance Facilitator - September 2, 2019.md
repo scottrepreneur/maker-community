@@ -1,6 +1,7 @@
 ---
 id: governance-facilitator-mandate
 title: Ratify the Interim Governance Facilitator Mandate
+sidebar_label: Interim Governance Facilitator Mandate
 ---
 
 ## Introduction

@@ -42,5 +42,5 @@ If you have an interest in helping Maker evolve over the next few years, please 
 
 - [Audio](https://soundcloud.com/makerdao/sets/governance-and-risk)
 - [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan)
-- [Summaries](./summaries/governance-risk-summaries)
-- [Transcripts](./transcripts/governance-risk-transcripts)
+- [Summaries](summaries/governance-risk-summaries)
+- [Transcripts](transcripts/governance-risk-transcripts)

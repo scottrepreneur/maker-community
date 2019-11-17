@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Community', // Title for your website.
-  full_title: 'Maker Community Development',
+  title: 'Community Development', // Title for your website.
+  full_title: 'Fostering growth in the Dai ecosystem',
   tagline: 'Fostering growth in the Dai ecosystem',
   url: 'https://community-development.makerdao.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -76,13 +76,13 @@ const siteConfig = {
   */
 
   algolia: {
-    apiKey: '47ecd3b21be71c5822571b9f59e52544',
-    indexName: 'docusaurus-2',
+    apiKey: process.env.ALGOLIA_KEY,
+    indexName: 'maker-comm-dev',
     algoliaOptions: {} // Optional, if provided by Algolia
   },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} MakerDAO Community Development Initiative`,
+  // copyright: `Copyright © ${new Date().getFullYear()} MakerDAO`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

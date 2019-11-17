@@ -30,7 +30,7 @@ Declare the colors as global CSS variables.
 
 Our primary highlight color. This is darker than the "standard" Maker Teal color used on their website `#30bd9f` to improve contrast and legibility.
 
-![](https://i.imgur.com/Osnrxoz.png =160x)
+<img src="https://i.imgur.com/Osnrxoz.png" width=160 />
 
 ### Usage
 
@@ -55,7 +55,7 @@ The `:active` color on the `Pill` object and `Section Title` in the Transparency
 
 Our secondary highlight color. Can be paired with `Maker Gradient Orange` to create sections or elements on a page with complimentary hues.
 
-![](https://i.imgur.com/34NCeJW.png =160x)
+<img src="https://i.imgur.com/34NCeJW.png" width=160 />
 
 ### Usage
 
@@ -74,7 +74,7 @@ Applied to this doughnut chart on the Transparency Dashboard and its correspondi
 
 Our tertiary highlight color. Used sparingly in coordination with `Maker Gradient Blue` to create sections on the page that stand apart - such as a call to action section to sign-up to something, or a footer.
 
-![](https://i.imgur.com/EDoKjk7.png =160x)
+<img src="https://i.imgur.com/EDoKjk7.png" width=160 />
 
 ### Usage
 
@@ -94,7 +94,7 @@ Used in both the `Section Title` and `Label` for this section of the Maker Trans
 
 A high contrast near-black with a subtle dark purple hue.
 
-![](https://i.imgur.com/wnDLWM9.png =160x)
+<img src="https://i.imgur.com/wnDLWM9.png" width=160 />
 
 ### Usage
 
@@ -105,7 +105,7 @@ A high contrast near-black with a subtle dark purple hue.
 
 Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
-![](https://i.imgur.com/3JetAvV.png =1024x)
+<img src="https://i.imgur.com/3JetAvV.png" width=1024 />
 
 ## Body Color
 
@@ -113,7 +113,7 @@ Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
 A softer mid-gray.
 
-![](https://i.imgur.com/lmn1qQO.png =160x)
+<img src="https://i.imgur.com/lmn1qQO.png" width=160 />
 
 #### Usage
 
@@ -130,7 +130,7 @@ Used in both the `label` and description text within each `RowCard`.
 
 A versatile teal-to-yellow gradient used across Maker properties as a primary background for major sections or entire pages.
 
-![](https://i.imgur.com/TBkLL5x.png =240x)
+<img src="https://i.imgur.com/TBkLL5x.png" width=240 />
 
 ```css
 linear-gradient(180deg, rgba(182, 237, 231, 0.38) 0%, rgba(253, 193, 52, 0.15) 100%)
@@ -148,7 +148,7 @@ The Transparency Dashboard uses this as its main background across the entire pa
 
 Can be paired with `Maker Teal` to create elements or sections with a complimentary hue.
 
-![](https://i.imgur.com/vKK5Nvh.png =240x)
+<img src="https://i.imgur.com/vKK5Nvh.png" width=240 />
 
 ```css
 linear-gradient(hsla(168,50%,90%,1),hsla(168,50%,86%,1))
@@ -164,13 +164,13 @@ linear-gradient(hsla(168,50%,90%,1),hsla(168,50%,86%,1))
 
 **Maker Grants Transparency Dashboard. Used to provide contrast/separation on one category of statistics**
 
-![](https://i.imgur.com/qRxoZJD.png =1024x)
+<img src="https://i.imgur.com/qRxoZJD.png" width=1024 />
 
 ## Gradient Orange
 
 Used as a background that can pair with `Maker Orange`
 
-![](https://i.imgur.com/SPVOhSU.png =240x)
+<img src="https://i.imgur.com/SPVOhSU.png" width=240 />
 
 #### `linear-gradient(hsla(39,70%,91%,1),hsla(39,70%,86%,1))`
 
@@ -183,13 +183,13 @@ Used as a background that can pair with `Maker Orange`
 
 **Used for visual contrast** to display a category of stats on the Maker Transparency Dashboard. In this case, `Maker Teal` is used for the number and `Body Color` for the descriptive text.
 
-![](https://i.imgur.com/yfVi3SJ.png =240x)
+<img src="https://i.imgur.com/yfVi3SJ.png" width=240 />
 
 ## Gradient Blue
 
 Paired with `Maker Blue` as a tertiary highlight. Used as a `<section>` background to establish a distinct contrast of content on the page.
 
-![](https://i.imgur.com/87SLYM8.png =240x)
+<img src="https://i.imgur.com/87SLYM8.png" width=240 />
 
 ```css
 linear-gradient(hsla(210,50%,90%,1),hsla(210,50%,86%,1))
@@ -204,7 +204,7 @@ linear-gradient(hsla(210,50%,90%,1),hsla(210,50%,86%,1))
 
 **Used as the background to a section in the Maker Transparency Dashboard**
 
-![](https://i.imgur.com/6IsKiar.png =640x)
+<img src="https://i.imgur.com/6IsKiar.png" width=640 />
 
 ## Typography
 
@@ -243,7 +243,7 @@ Used sparingly for major statements on a landing page, such as the opening headl
 
 Used as the above-the-fold headline on the Maker Grants Transparency Dashboard
 
-![](https://i.imgur.com/3JetAvV.png =1024x)
+<img src="https://i.imgur.com/3JetAvV.png" width=1024 />
 
 ## Headline 2
 
@@ -290,11 +290,11 @@ In the Transparency Dashboard, it's used to highlight our grant program statisti
 
 Used in as the "question" in a Q&A format within a `LinkCard` to link out to frequently asked questions.
 
-![](https://i.imgur.com/nUBgnhn.png =420x)
+<img src="https://i.imgur.com/nUBgnhn.png" width=420 />
 
 Used to define the status of a project (in this case - "Beta") within a `RowCard` that details a project that has been supported by the Maker Community Grants program.
 
-![](https://i.imgur.com/QHFuKdi.png =640x)
+<img src="https://i.imgur.com/QHFuKdi.png" width=640 />
 
 ## Typeface
 
@@ -319,12 +319,12 @@ Maker currently uses system fonts across its properties, with Helvetica Neue as 
 **Button Primary**
 For any primary calls-to-action, like creating an account or submitting a form.
 
-![](https://i.imgur.com/sRbKD6f.png =200x)
+<img src="https://i.imgur.com/sRbKD6f.png" width=200 />
 
 **Button Secondary**
 For any secondary calls-to-action, like canceling out of a flow, or triggering an alternative display, etc.
 
-![](https://i.imgur.com/KyJdUyh.png =200x)
+<img src="https://i.imgur.com/KyJdUyh.png" width=200 />
 
 ```css
 .buttonPrimary {
@@ -391,10 +391,10 @@ Used as a tab mechanism, to filter content within a specific section on a page.
 ### Examples
 
 **Active**
-![](https://i.imgur.com/QzBpNUd.png =160x)
+<img src="https://i.imgur.com/QzBpNUd.png" width=160 />
 
 **Inactive**
-![](https://i.imgur.com/YlJN0zW.png =160x)
+<img src="https://i.imgur.com/YlJN0zW.png" width=160 />
 
 ### Code
 
@@ -437,7 +437,7 @@ We use `RowCards` to organize and structure content into lists. They break down 
 We use the RowCards to create a list of Grantees in the Maker Transparency Dashboard.
 
 **A single RowCard**
-![](https://i.imgur.com/sK1NHUU.png =1024x)
+<img src="https://i.imgur.com/sK1NHUU.png" width=1024 />
 
 **Multiple RowCards in a list**
 _This example is a list of Grantees displayed on the Maker Transparency Dashboard_
@@ -445,11 +445,11 @@ _This example is a list of Grantees displayed on the Maker Transparency Dashboar
 ![](https://i.imgur.com/kmGLIsF.png)
 
 **A single RowCard @mobile breakpoint**
-![](https://i.imgur.com/4oxtBku.png =320x)
+<img src="https://i.imgur.com/4oxtBku.png" width=320 />
 
 **Multiple RowCards in a list @mobile breakpoint**
 
-![](https://i.imgur.com/877JdCq.png =320x)
+<img src="https://i.imgur.com/877JdCq.png" width=326 />
 
 ```html
 <div class="rowCardWrapper">
@@ -630,11 +630,11 @@ a:hover {
 
 An inline link.
 
-![](https://i.imgur.com/zszpd5i.png =420x)
+<img src="https://i.imgur.com/zszpd5i.png" width=420 />
 
 The inline link on `:hover`
 
-![](https://i.imgur.com/iPQED6w.png =420x)
+<img src="https://i.imgur.com/iPQED6w.png" width=420 />
 
 ## LinkCard
 
@@ -649,10 +649,11 @@ For links that require more prominence.
 
 **LinkCard** Active (on hover).
 
-![](https://i.imgur.com/sMHUP8K.png =480x)
+<img src="https://i.imgur.com/sMHUP8K.png" width=480 />
 
 **LinkCard** Inactive.
-![](https://i.imgur.com/RUFrLJr.png =480x)
+
+<img src="https://i.imgur.com/RUFrLJr.png" width=480 />
 
 Used in the Footer of the Transparency Dashboard to link out to external educational resources. It contains a `Label` object and `Headline 3` object within a container.
 

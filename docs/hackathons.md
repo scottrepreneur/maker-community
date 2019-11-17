@@ -26,7 +26,7 @@ The Maker Foundation is involved in hackathons in many ways:
 - Sponsor prizes
 - Come up with hackathon themes and tracks
 - Participate as judges and mentors
-- Enroll hackathon participants and winners into our [Grants program](grants.md)
+- Enroll hackathon participants and winners into our [Grants program](grantsmd)
 
 ## Is this for me?
 

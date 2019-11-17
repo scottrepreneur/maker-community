@@ -4,6 +4,13 @@ title: Governance and Risk Meeting Summaries
 sidebar_label: Meeting Summaries
 ---
 
+- [Episode 60: Nov 07, 2019](episode-60.md)
+- [Episode 59: Oct 31, 2019](episode-59.md)
+- [Episode 58: Oct 24, 2019](episode-58.md)
+- [Episode 57: Oct 17, 2019](episode-57.md)
+- [Episode 56: Oct 10, 2019](episode-56.md)
+- [Episode 55: Oct 03, 2019](episode-55.md)
+- [Episode 54: Sep 26, 2019](episode-54.md)
 - [Episode 53: Sep 19, 2019](episode-53.md)
 - [Episode 52: Sep 12, 2019](episode-52.md)
 - [Episode 51: Sep 05, 2019](episode-51.md)

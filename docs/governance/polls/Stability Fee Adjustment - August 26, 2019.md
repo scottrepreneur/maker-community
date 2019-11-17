@@ -1,6 +1,7 @@
 ---
 id: stability-fee-082619
 title: Stability Fee Adjustment - August 26, 2019
+sidebar_label: August 26, 2019
 ---
 
 The Maker Foundation Interim Risk Team has placed a Governance Poll into the [voting system](https://vote.makerdao.com/polling) which presents a number of possible Dai Stability Fee options. Voters are now able to signal their support for a Stability Fee within a range of 14.5% to 22.5%.

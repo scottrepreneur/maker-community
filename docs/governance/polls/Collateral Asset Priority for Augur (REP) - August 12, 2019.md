@@ -1,6 +1,7 @@
 ---
 id: cap-rep
 title: Collateral Asset Priority for Augur (REP) - August 12, 2019
+sidebar_label: CAP - Augur (REP)
 ---
 
 The Maker Foundation Interim Risk Team has placed seven Governance Polls into the [voting system](https://vote.makerdao.com/polling), one for each of the asset types proposed for inclusion the Multi-Collateral Dai system when it launches.

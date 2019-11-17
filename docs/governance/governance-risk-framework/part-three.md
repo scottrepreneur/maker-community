@@ -1,7 +1,7 @@
 ---
 id: risk-framework-three
 title: The Governance Risk Framework - Part 3
-sidebar_label: Risk Framework - Part 3
+sidebar_label: Part 3
 ---
 
 ![The Governance Risk Framework: Part 3](https://cdn-images-1.medium.com/max/1600/1*FzLwmwdSNSbaGBdXwJXw1g.png)
